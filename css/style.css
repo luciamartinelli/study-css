@@ -1,7 +1,26 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
 
 body {
-    padding: 10%;
-    font-size: 2rem;
-    font-family: 'Roboto', sans-serif;
+  padding: 10%;
+  font-size: 2rem;
+  font-family: "Roboto", sans-serif;
+}
+
+* {
+  margin: 0;
+  padding: 0%;
+  box-sizing: border box;
+}
+
+body {
+  margin: 0.5rem;
+  font-family: "Robot", sans-serif;
+  text-align: center;
+}
+
+nav {
+  border: 2px soldi black;
+  border-radius: 2rem;
+  margin: 0 auto 1rem;
+  max-width: 600px;
 }
